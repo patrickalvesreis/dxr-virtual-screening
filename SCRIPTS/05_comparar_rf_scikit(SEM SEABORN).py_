@@ -1,0 +1,97 @@
+"""
+SCRIPT: 05_comparar_rf_scikit.py (SEM SEABORN)
+DESCRIÇÃO: Treina um Random Forest com ECFP4 para comparar com a GNN.
+ENTRADA: outputs/ecfp_deepchem.csv
+"""
+
+import os
+import sys
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+# import seaborn as sns -- Removido para evitar erro
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score, mean_squared_error
+
+# --- CONFIGURAÇÕES ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_FILE = os.path.join(BASE_DIR, "..", "outputs", "ecfp_deepchem.csv")
+OUTPUT_PLOT = os.path.join(BASE_DIR, "..", "outputs", "comparacao_rf.png")
+
+def main():
+    print("--- TREINAMENTO RANDOM FOREST (BENCHMARK) ---")
+
+    if not os.path.exists(INPUT_FILE):
+        sys.exit("Arquivo ECFP não encontrado. Rode o script 02.")
+
+    # 1. Carregar Dados
+    print("Carregando CSV (pode demorar um pouco devido ao tamanho)...")
+    df = pd.read_csv(INPUT_FILE)
+
+    # Filtrar linhas sem pIC50
+    df = df.dropna(subset=['pIC50'])
+
+    # Separar Features (X) e Target (y)
+    feat_cols = [c for c in df.columns if c.startswith('Bit_')]
+    X = df[feat_cols].values
+    y = df['pIC50'].values
+
+    print(f"Dataset: {X.shape}")
+
+    # 2. Split (Mesma semente da GNN para ser justo: 42)
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42
+    )
+
+    print(f"Treino: {len(X_train)} | Teste: {len(X_test)}")
+
+    # 3. Treinar Random Forest
+    print("Treinando Random Forest...")
+    rf = RandomForestRegressor(
+        n_estimators=100,  # 100 árvores
+        max_depth=20,      # Evitar decorar demais
+        n_jobs=-1,         # Usar todos os cores da CPU
+        random_state=42
+    )
+    rf.fit(X_train, y_train)
+
+    # 4. Avaliar
+    y_pred = rf.predict(X_test)
+    y_train_pred = rf.predict(X_train)
+
+    r2_test = r2_score(y_test, y_pred)
+    mse_test = mean_squared_error(y_test, y_pred)
+    r2_train = r2_score(y_train, y_train_pred)
+
+    print("-" * 30)
+    print(f"RESULTADOS RANDOM FOREST:")
+    print(f"Train R²: {r2_train:.4f}")
+    print(f"Test R²:  {r2_test:.4f}")
+    print(f"Test MSE: {mse_test:.4f}")
+    print("-" * 30)
+
+    # 5. Gráfico de Dispersão (Matplotlib Puro)
+    plt.figure(figsize=(8, 6))
+    # plt.style.use('ggplot') # Estilo opcional se disponível, senão usa padrão
+
+    # Plotar Teste
+    plt.scatter(y_test, y_pred, alpha=0.7, color='blue', label=f'Teste (R²={r2_test:.2f})')
+
+    # Linha ideal
+    min_val = min(np.min(y_test), np.min(y_pred))
+    max_val = max(np.max(y_test), np.max(y_pred))
+    plt.plot([min_val, max_val], [min_val, max_val], 'r--', lw=2, label='Ideal')
+
+    plt.xlabel("pIC50 Real (Experimental)")
+    plt.ylabel("pIC50 Predito (Random Forest)")
+    plt.title("Performance: Random Forest (ECFP4)")
+    plt.legend()
+    plt.grid(True, linestyle='--', alpha=0.5) # Grid manual
+
+    plt.tight_layout()
+    plt.savefig(OUTPUT_PLOT)
+    print(f"Gráfico salvo em: {OUTPUT_PLOT}")
+
+if __name__ == "__main__":
+    main()

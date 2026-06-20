@@ -1,0 +1,43 @@
+Etapa 1A – Inspeção de mol_pkl
+Total com mol_pkl: 118
+
+=== ligand_id: 7457 ===
+mol_pkl_path: /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/resultados_fp32_seq/7457/boltz_results_7457/processed/mols/7457.pkl
+  type(obj): <class 'dict'>
+  Detecção: objeto é dict
+  Keys: ['LIG1', 'LIG2']
+  -> Possível Mol em key 'LIG1': 21 átomos, 1 conformers
+  -> Possível Mol em key 'LIG2': 48 átomos, 1 conformers
+
+=== ligand_id: 7459 ===
+mol_pkl_path: /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/resultados_fp32_seq/7459/boltz_results_7459/processed/mols/7459.pkl
+  type(obj): <class 'dict'>
+  Detecção: objeto é dict
+  Keys: ['LIG1', 'LIG2']
+  -> Possível Mol em key 'LIG1': 21 átomos, 1 conformers
+  -> Possível Mol em key 'LIG2': 48 átomos, 1 conformers
+
+=== ligand_id: 7460 ===
+mol_pkl_path: /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/resultados_fp32_seq/7460/boltz_results_7460/processed/mols/7460.pkl
+  type(obj): <class 'dict'>
+  Detecção: objeto é dict
+  Keys: ['LIG1', 'LIG2']
+  -> Possível Mol em key 'LIG1': 22 átomos, 1 conformers
+  -> Possível Mol em key 'LIG2': 48 átomos, 1 conformers
+
+=== ligand_id: 15236 ===
+mol_pkl_path: /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/resultados_fp32_seq/15236/boltz_results_15236/processed/mols/15236.pkl
+  type(obj): <class 'dict'>
+  Detecção: objeto é dict
+  Keys: ['LIG1', 'LIG2']
+  -> Possível Mol em key 'LIG1': 23 átomos, 1 conformers
+  -> Possível Mol em key 'LIG2': 48 átomos, 1 conformers
+
+=== ligand_id: 59100 ===
+mol_pkl_path: /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/resultados_fp32_seq/59100/boltz_results_59100/processed/mols/59100.pkl
+  type(obj): <class 'dict'>
+  Detecção: objeto é dict
+  Keys: ['LIG1', 'LIG2']
+  -> Possível Mol em key 'LIG1': 34 átomos, 1 conformers
+  -> Possível Mol em key 'LIG2': 48 átomos, 1 conformers
+

@@ -1,0 +1,243 @@
+Etapa 1B – Extração de ligantes 3D a partir de mol_pkl
+Total de registros no mapa: 118
+
+[7457::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 4 14 16 20
+[7457::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/7457_LIG2.sdf (conformers=1, atoms=48)
+[7459::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 3 13 15 18 20
+[7459::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/7459_LIG2.sdf (conformers=1, atoms=48)
+[7460::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 4 14 16 19 21
+[7460::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/7460_LIG2.sdf (conformers=1, atoms=48)
+[15236::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 4 15 17 20 22
+[15236::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/15236_LIG2.sdf (conformers=1, atoms=48)
+[59100::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[59100::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/59100_LIG2.sdf (conformers=1, atoms=48)
+[701278::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/701278_LIG1.sdf (conformers=1, atoms=25)
+[701278::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/701278_LIG2.sdf (conformers=1, atoms=48)
+[50009001::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 3 11 13 15 17 19
+[50009001::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50009001_LIG2.sdf (conformers=1, atoms=48)
+[50028309::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50028309_LIG1.sdf (conformers=1, atoms=11)
+[50028309::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028309_LIG2.sdf (conformers=1, atoms=48)
+[50028310::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[50028310::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028310_LIG2.sdf (conformers=1, atoms=48)
+[50028362::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50028362::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028362_LIG2.sdf (conformers=1, atoms=48)
+[50028363::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50028363::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028363_LIG2.sdf (conformers=1, atoms=48)
+[50028364::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5 19
+[50028364::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028364_LIG2.sdf (conformers=1, atoms=48)
+[50028371::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5 18
+[50028371::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028371_LIG2.sdf (conformers=1, atoms=48)
+[50028373::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50028373::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028373_LIG2.sdf (conformers=1, atoms=48)
+[50028380::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 9
+[50028380::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028380_LIG2.sdf (conformers=1, atoms=48)
+[50028381::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 11
+[50028381::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50028381_LIG2.sdf (conformers=1, atoms=48)
+[50044967::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50044967::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50044967_LIG2.sdf (conformers=1, atoms=48)
+[50044971::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[50044971::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50044971_LIG2.sdf (conformers=1, atoms=48)
+[50044973::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 12 14
+[50044973::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50044973_LIG2.sdf (conformers=1, atoms=48)
+[50044975::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50044975::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50044975_LIG2.sdf (conformers=1, atoms=48)
+[50044976::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 9 12 14
+[50044976::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50044976_LIG2.sdf (conformers=1, atoms=48)
+[50081647::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50081647_LIG1.sdf (conformers=1, atoms=13)
+[50081647::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50081647_LIG2.sdf (conformers=1, atoms=48)
+[50081649::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 10
+[50081649::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50081649_LIG2.sdf (conformers=1, atoms=48)
+[50081650::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 11
+[50081650::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50081650_LIG2.sdf (conformers=1, atoms=48)
+[50115109::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 6 9 12
+[50115109::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50115109_LIG2.sdf (conformers=1, atoms=48)
+[50135835::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50135835_LIG1.sdf (conformers=1, atoms=20)
+[50135835::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50135835_LIG2.sdf (conformers=1, atoms=48)
+[50153713::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50153713_LIG1.sdf (conformers=1, atoms=11)
+[50153713::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50153713_LIG2.sdf (conformers=1, atoms=48)
+[50181147::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8
+[50181147::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181147_LIG2.sdf (conformers=1, atoms=48)
+[50181148::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50181148::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181148_LIG2.sdf (conformers=1, atoms=48)
+[50181149::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11
+[50181149::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181149_LIG2.sdf (conformers=1, atoms=48)
+[50181150::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50181150::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181150_LIG2.sdf (conformers=1, atoms=48)
+[50181151::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50181151::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181151_LIG2.sdf (conformers=1, atoms=48)
+[50181152::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11
+[50181152::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181152_LIG2.sdf (conformers=1, atoms=48)
+[50181153::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50181153_LIG1.sdf (conformers=1, atoms=12)
+[50181153::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181153_LIG2.sdf (conformers=1, atoms=48)
+[50181154::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 7 10 12
+[50181154::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50181154_LIG2.sdf (conformers=1, atoms=48)
+[50185361::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50185361_LIG1.sdf (conformers=1, atoms=13)
+[50185361::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50185361_LIG2.sdf (conformers=1, atoms=48)
+[50185362::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50185362_LIG1.sdf (conformers=1, atoms=14)
+[50185362::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50185362_LIG2.sdf (conformers=1, atoms=48)
+[50185363::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50185363_LIG1.sdf (conformers=1, atoms=12)
+[50185363::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50185363_LIG2.sdf (conformers=1, atoms=48)
+[50335486::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 4
+[50335486::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50335486_LIG2.sdf (conformers=1, atoms=48)
+[50335490::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 8
+[50335490::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50335490_LIG2.sdf (conformers=1, atoms=48)
+[50335491::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 9
+[50335491::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50335491_LIG2.sdf (conformers=1, atoms=48)
+[50335492::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50335492_LIG1.sdf (conformers=1, atoms=11)
+[50335492::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50335492_LIG2.sdf (conformers=1, atoms=48)
+[50335493::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 8 16
+[50335493::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50335493_LIG2.sdf (conformers=1, atoms=48)
+[50335494::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50335494_LIG1.sdf (conformers=1, atoms=15)
+[50335494::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50335494_LIG2.sdf (conformers=1, atoms=48)
+[50379999::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50379999_LIG1.sdf (conformers=1, atoms=11)
+[50379999::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50379999_LIG2.sdf (conformers=1, atoms=48)
+[50380000::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50380000_LIG1.sdf (conformers=1, atoms=12)
+[50380000::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50380000_LIG2.sdf (conformers=1, atoms=48)
+[50422641::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422641_LIG1.sdf (conformers=1, atoms=18)
+[50422641::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422641_LIG2.sdf (conformers=1, atoms=48)
+[50422642::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422642_LIG1.sdf (conformers=1, atoms=18)
+[50422642::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422642_LIG2.sdf (conformers=1, atoms=48)
+[50422643::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422643_LIG1.sdf (conformers=1, atoms=15)
+[50422643::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422643_LIG2.sdf (conformers=1, atoms=48)
+[50422645::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50422645::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422645_LIG2.sdf (conformers=1, atoms=48)
+[50422646::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422646_LIG1.sdf (conformers=1, atoms=14)
+[50422646::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422646_LIG2.sdf (conformers=1, atoms=48)
+[50422647::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422647_LIG1.sdf (conformers=1, atoms=15)
+[50422647::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422647_LIG2.sdf (conformers=1, atoms=48)
+[50422649::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 6
+[50422649::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422649_LIG2.sdf (conformers=1, atoms=48)
+[50422650::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422650_LIG1.sdf (conformers=1, atoms=12)
+[50422650::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422650_LIG2.sdf (conformers=1, atoms=48)
+[50422651::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 6 11
+[50422651::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422651_LIG2.sdf (conformers=1, atoms=48)
+[50422652::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 8 13
+[50422652::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422652_LIG2.sdf (conformers=1, atoms=48)
+[50422653::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5
+[50422653::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422653_LIG2.sdf (conformers=1, atoms=48)
+[50422654::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422654_LIG1.sdf (conformers=1, atoms=14)
+[50422654::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422654_LIG2.sdf (conformers=1, atoms=48)
+[50422656::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422656_LIG1.sdf (conformers=1, atoms=14)
+[50422656::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422656_LIG2.sdf (conformers=1, atoms=48)
+[50422659::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 7
+[50422659::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422659_LIG2.sdf (conformers=1, atoms=48)
+[50422661::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422661_LIG1.sdf (conformers=1, atoms=11)
+[50422661::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422661_LIG2.sdf (conformers=1, atoms=48)
+[50422662::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422662_LIG1.sdf (conformers=1, atoms=18)
+[50422662::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422662_LIG2.sdf (conformers=1, atoms=48)
+[50422663::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422663_LIG1.sdf (conformers=1, atoms=13)
+[50422663::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422663_LIG2.sdf (conformers=1, atoms=48)
+[50422664::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422664_LIG1.sdf (conformers=1, atoms=12)
+[50422664::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422664_LIG2.sdf (conformers=1, atoms=48)
+[50422665::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422665_LIG1.sdf (conformers=1, atoms=14)
+[50422665::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422665_LIG2.sdf (conformers=1, atoms=48)
+[50422666::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2
+[50422666::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422666_LIG2.sdf (conformers=1, atoms=48)
+[50422669::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422669_LIG1.sdf (conformers=1, atoms=13)
+[50422669::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422669_LIG2.sdf (conformers=1, atoms=48)
+[50422670::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 15 18
+[50422670::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422670_LIG2.sdf (conformers=1, atoms=48)
+[50422671::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422671_LIG1.sdf (conformers=1, atoms=14)
+[50422671::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422671_LIG2.sdf (conformers=1, atoms=48)
+[50422672::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5 23
+[50422672::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422672_LIG2.sdf (conformers=1, atoms=48)
+[50422673::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422673_LIG1.sdf (conformers=1, atoms=18)
+[50422673::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422673_LIG2.sdf (conformers=1, atoms=48)
+[50422674::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422674_LIG1.sdf (conformers=1, atoms=14)
+[50422674::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422674_LIG2.sdf (conformers=1, atoms=48)
+[50422676::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422676_LIG1.sdf (conformers=1, atoms=15)
+[50422676::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422676_LIG2.sdf (conformers=1, atoms=48)
+[50422677::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50422677_LIG1.sdf (conformers=1, atoms=13)
+[50422677::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50422677_LIG2.sdf (conformers=1, atoms=48)
+[50437792::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50437792::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437792_LIG2.sdf (conformers=1, atoms=48)
+[50437793::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 6
+[50437793::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437793_LIG2.sdf (conformers=1, atoms=48)
+[50437794::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 11 13
+[50437794::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437794_LIG2.sdf (conformers=1, atoms=48)
+[50437796::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 18 21 23
+[50437796::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437796_LIG2.sdf (conformers=1, atoms=48)
+[50437797::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2
+[50437797::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437797_LIG2.sdf (conformers=1, atoms=48)
+[50437801::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 9
+[50437801::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437801_LIG2.sdf (conformers=1, atoms=48)
+[50437802::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 17 20 22
+[50437802::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437802_LIG2.sdf (conformers=1, atoms=48)
+[50437803::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 14 17 19
+[50437803::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437803_LIG2.sdf (conformers=1, atoms=48)
+[50437804::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5 10
+[50437804::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437804_LIG2.sdf (conformers=1, atoms=48)
+[50437805::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 3 5 7
+[50437805::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437805_LIG2.sdf (conformers=1, atoms=48)
+[50437806::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 6
+[50437806::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50437806_LIG2.sdf (conformers=1, atoms=48)
+[50441189::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8
+[50441189::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441189_LIG2.sdf (conformers=1, atoms=48)
+[50441191::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 8 10
+[50441191::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441191_LIG2.sdf (conformers=1, atoms=48)
+[50441192::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5
+[50441192::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441192_LIG2.sdf (conformers=1, atoms=48)
+[50441193::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[50441193::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441193_LIG2.sdf (conformers=1, atoms=48)
+[50441194::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 12 17
+[50441194::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441194_LIG2.sdf (conformers=1, atoms=48)
+[50441195::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50441195::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441195_LIG2.sdf (conformers=1, atoms=48)
+[50441196::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50441196::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441196_LIG2.sdf (conformers=1, atoms=48)
+[50441197::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8
+[50441197::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441197_LIG2.sdf (conformers=1, atoms=48)
+[50441200::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[50441200::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441200_LIG2.sdf (conformers=1, atoms=48)
+[50441201::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 12 17
+[50441201::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441201_LIG2.sdf (conformers=1, atoms=48)
+[50441202::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50441202::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441202_LIG2.sdf (conformers=1, atoms=48)
+[50441203::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50441203::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441203_LIG2.sdf (conformers=1, atoms=48)
+[50441204::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8
+[50441204::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441204_LIG2.sdf (conformers=1, atoms=48)
+[50441205::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 8 10
+[50441205::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441205_LIG2.sdf (conformers=1, atoms=48)
+[50441206::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 8 10
+[50441206::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441206_LIG2.sdf (conformers=1, atoms=48)
+[50441207::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5
+[50441207::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441207_LIG2.sdf (conformers=1, atoms=48)
+[50441208::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[50441208::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441208_LIG2.sdf (conformers=1, atoms=48)
+[50441209::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 12 17
+[50441209::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441209_LIG2.sdf (conformers=1, atoms=48)
+[50441210::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50441210::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441210_LIG2.sdf (conformers=1, atoms=48)
+[50441211::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 11 13
+[50441211::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50441211_LIG2.sdf (conformers=1, atoms=48)
+[50445564::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50445564_LIG1.sdf (conformers=1, atoms=12)
+[50445564::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50445564_LIG2.sdf (conformers=1, atoms=48)
+[50459310::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50459310_LIG1.sdf (conformers=1, atoms=11)
+[50459310::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50459310_LIG2.sdf (conformers=1, atoms=48)
+[50459311::LIG1] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG1/50459311_LIG1.sdf (conformers=1, atoms=12)
+[50459311::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50459311_LIG2.sdf (conformers=1, atoms=48)
+[50528590::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 1 4
+[50528590::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528590_LIG2.sdf (conformers=1, atoms=48)
+[50528591::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 10 14 19
+[50528591::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528591_LIG2.sdf (conformers=1, atoms=48)
+[50528593::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 8 10 13
+[50528593::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528593_LIG2.sdf (conformers=1, atoms=48)
+[50528595::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 10 12 15
+[50528595::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528595_LIG2.sdf (conformers=1, atoms=48)
+[50528597::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 4 8
+[50528597::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528597_LIG2.sdf (conformers=1, atoms=48)
+[50528598::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 5
+[50528598::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528598_LIG2.sdf (conformers=1, atoms=48)
+[50528600::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 10 13 15
+[50528600::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528600_LIG2.sdf (conformers=1, atoms=48)
+[50528601::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 4 8
+[50528601::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528601_LIG2.sdf (conformers=1, atoms=48)
+[50528602::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 5 7 10
+[50528602::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528602_LIG2.sdf (conformers=1, atoms=48)
+[50528603::LIG1] ERRO_SALVAR_SDF: Erro ao salvar SDF para LIG1: Can't kekulize mol.  Unkekulized atoms: 2 4 8
+[50528603::LIG2] OK: SDF salvo em /home/patrick/1_PROJETO_DOCAGEM/Projeto_DXR/Banco-de-dados-bindingDB/Descritores/PROJETO_DXR_ML_GNN/00_Dados_Originais/docking_boltz-2_V3/02_Ligantes_3D/sdf_from_pkl/LIG2/50528603_LIG2.sdf (conformers=1, atoms=48)
+
+Resumo:
+  Registros de Mol salvos (ligand_id x lig_key): 153
+  Falhas: 83
